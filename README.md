@@ -30,4 +30,4 @@ KELEBIHAN CRUD SEDERHANA INI:
 
 Untuk Dukungan, hubungi harumi@hostinginaja.id atau masuk ke forum kami [Klick ini](https://chat.whatsapp.com/EynMSIVStv2BbX4BKwyCpg).
 
-[<img src="https://user-images.githubusercontent.com/108168147/206886506-c4139e1c-0b95-4c15-aba7-a711e627506e.jpg" height="200" width="300">](https://trakteer.id/CaD3L)
+[<img src="https://user-images.githubusercontent.com/108168147/206886506-c4139e1c-0b95-4c15-aba7-a711e627506e.jpg" height="100" width="200">](https://trakteer.id/CaD3L)
