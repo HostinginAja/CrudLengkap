@@ -28,6 +28,6 @@ KELEBIHAN CRUD SEDERHANA INI:
 
 ## Support
 
-Untuk Dukungan, hubungi harumi@hostinginaja.id atau masuk ke forum kami [Klick ini](https://chat.whatsapp.com/EynMSIVStv2BbX4BKwyCpg).
+Untuk Dukungan, hubungi harumi@hostinginaja.id atau masuk ke forum kami [Klick ini](https://chat.whatsapp.com/EynMSIVStv2BbX4BKwyCpg) dan jangan lupa trakteer dengan menekan tombol dibawah ini : 
 
 [<img src="https://user-images.githubusercontent.com/108168147/206886506-c4139e1c-0b95-4c15-aba7-a711e627506e.jpg" height="100" width="500">](https://trakteer.id/CaD3L)
