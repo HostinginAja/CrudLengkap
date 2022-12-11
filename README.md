@@ -19,7 +19,7 @@ KELEBIHAN CRUD SEDERHANA INI:
 ## Demo
 
 
-<img width="480px" height="480px" src="https://user-images.githubusercontent.com/108168147/176496257-d23bcff4-418d-48c3-8450-6fbb30e1387c.gif">
+<img width="100%" height="480px" src="https://user-images.githubusercontent.com/108168147/206883004-af0f2a55-a849-418b-8eee-2f796c00bbf9.gif">
 
 
 
