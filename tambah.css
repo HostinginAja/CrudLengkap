@@ -1,0 +1,9 @@
+.kiri{
+    float: left;
+  }
+
+  .kanan {
+    float: right;
+    color: white;
+    text-align: left;
+  }
