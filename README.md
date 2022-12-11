@@ -29,3 +29,5 @@ KELEBIHAN CRUD SEDERHANA INI:
 ## Support
 
 Untuk Dukungan, hubungi harumi@hostinginaja.id atau masuk ke forum kami [Klick ini](https://chat.whatsapp.com/EynMSIVStv2BbX4BKwyCpg).
+
+[<img src="https://user-images.githubusercontent.com/108168147/206886506-c4139e1c-0b95-4c15-aba7-a711e627506e.jpg" width="128">](https://trakteer.id/ibnux)
